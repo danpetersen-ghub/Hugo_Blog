@@ -1,0 +1,117 @@
+:root {
+	--Blue: #1a2238;
+	--Purple: #9daaf2;
+	--Red: #ff6a3d;
+	--Yellow: #f4db7d;
+}
+.background {
+	background-image: url("#");
+	background-position-y: top;
+	position: relative;
+	background-position-x: right;
+	background-repeat: no-repeat;
+	min-height: 400px;
+	max-width: 1440px;
+	max-height: 660px;
+	width: 100%;
+	padding-bottom: 30px;
+}
+.container {
+	margin-top: 0px;
+	width: 100% !important;
+	padding: 0px;
+}
+.row {
+	width: 100% !important;
+	border-radius: 25px;
+	margin: 0px !important;
+}
+.row.banner {
+	background-color: var(--Yellow);
+}
+.row.footer {
+	background-color: #e8e8e8;
+	padding: 40px;
+	text-align: center;
+	font-size: 7px !important;
+}
+#banner_subcopy {
+	max-width: 500px;
+}
+#body {
+	margin-top: 40px;
+}
+.banner-title {
+	padding-top: 80px;
+	max-width: 500px;
+	font-weight: bolder;
+}
+.content {
+	padding-top: 20px;
+}
+select, button {
+	background-color: var(--Red);
+	color: #fff;
+	padding: 5px;
+	border-radius: 5px;
+	border: 0px solid;
+}
+select:hover {
+	background-color: var(--Blue);
+}
+button:hover {
+	background-color: var(--Blue);
+}
+h1, h2, section.row h2, .h1-pos {
+	color: var(--Blue);
+	font-size: 2.5em !important;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.11;
+	letter-spacing: normal;
+	margin-bottom: 1em !important;
+}
+.cta-button:hover {
+	background-color: var(--Blue);
+}
+a:hover {
+	color: var(--Purple);
+}
+a {
+	color: var(--Blue) !important;
+    word-wrap: break-word;
+}
+.cta-button {
+	background: var(--Red);
+	color: #fff;
+	font-size: 16px;
+	padding: 10px 30px;
+	display: inline-block;
+	position: relative;
+	font-weight: 700;
+	line-height: normal;
+	letter-spacing: .45px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 30px;
+}
+p {
+	font-size: 18px;
+	color: #353637;
+	line-height: 1.67;
+}
+.shadow {
+	-webkit-box-shadow: 4px 4px 16px 0 rgba(28, 40, 44, .15);
+	-moz-box-shadow: 4px 4px 16px 0 rgba(28, 40, 44, .15);
+	box-shadow: 4px 4px 16px 0 rgba(28, 40, 44, .15);
+}
+.select {
+	float: right;
+	margin: 20px;
+}
+.fab, .far {
+	font-weight: 400;
+	font-size: 30px;
+	margin: 10px;
+}
