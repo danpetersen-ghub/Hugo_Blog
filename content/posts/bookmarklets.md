@@ -1,6 +1,5 @@
 +++
 date = 2022-03-07T09:00:00Z
-draft = true
 title = "Bookmarklets"
 
 +++
