@@ -1,0 +1,12 @@
+---
+label: Post Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+pages:
+- content/posts/new-content.md
