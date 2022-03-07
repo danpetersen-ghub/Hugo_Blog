@@ -1,6 +1,6 @@
 +++
 date = 2022-03-08T09:00:00Z
-title = "What_the_Function!?"
+title = "What the Function!?"
 
 +++
 # Functions, what are they good for?
