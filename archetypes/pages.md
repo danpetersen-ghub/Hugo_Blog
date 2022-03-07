@@ -4,4 +4,5 @@ date: {{ .Date }}
 draft: true
 author: "Dan"
 BannerImg: ""
+url: "custom/foo"
 ---

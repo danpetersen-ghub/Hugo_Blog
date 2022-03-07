@@ -4,6 +4,7 @@ date: 2021-09-26T12:16:53.000+01:00
 name: Dan
 BannerImage: ""
 BannerText: my Banner Text
+url: "home"
 ---
 
 ### SubTitle 1
