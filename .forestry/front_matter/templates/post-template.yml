@@ -10,3 +10,4 @@ fields:
   label: date
 pages:
 - content/posts/bookmarklets.md
+- content/posts/what-the-function.md
