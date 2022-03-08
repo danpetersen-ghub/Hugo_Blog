@@ -4,7 +4,7 @@ description = "Name files cleaner and quicker"
 title = "File Name Generator"
 
 +++
-# Being a clean freak....
+# Being a clean freak...
 
 I just couldn't deal with messy, disorganized filenames. So I made this:
 
