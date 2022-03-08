@@ -8,6 +8,14 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: DD/MM/YY
+    time_format: h:mm
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
 pages:
 - content/posts/bookmarklets.md
 - content/posts/file-name-generator.md
