@@ -17,6 +17,7 @@ fields:
     required: false
   label: Description
 pages:
+- content/pages/about-me.md
 - content/posts/bookmarklets.md
 - content/posts/file-name-generator.md
 - content/posts/hello-hoisting.md
