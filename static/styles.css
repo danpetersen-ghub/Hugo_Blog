@@ -129,3 +129,15 @@ pre {
 img {
   width: 100%;
 }
+table {
+  width: 100%;
+  background: var(--Yellow);
+  border-radius: 25px;
+  text-align: center;
+}
+tr {
+  border: 1px white solid;
+}
+iframe {
+  border-radius: 25px;
+}
