@@ -1,20 +1,21 @@
 +++
 date = 2022-03-06T00:00:00Z
 title = "Simple FizzBuzz"
-
+description = "A simple attempt at FizzBuzz Challenge"
 +++
+
 # Hey umm... is this thing on?
 
-# 
+#
 
 #### Yes I believe so
 
 So here is a simple FizzBuzz
 
-# 
+#
 
     const Array = [];
-    
+
     for (var i = 0; i < 100; i++) {
       if (i % 3 == 0 && i % 5 == 0) {
         Array.push("FizzBuzz");
@@ -26,7 +27,7 @@ So here is a simple FizzBuzz
         Array.push(i);
       }
     }
-    
+
     console.table(Array);
 
 ###### Ouput:
