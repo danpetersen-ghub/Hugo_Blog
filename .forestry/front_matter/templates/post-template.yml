@@ -9,4 +9,5 @@ fields:
   name: date
   label: date
 pages:
-- content/posts/new-content.md
+- content/posts/bookmarklets.md
+- content/posts/what-the-function.md
