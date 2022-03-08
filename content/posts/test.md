@@ -1,15 +1,27 @@
 ---
-title: "test Page"
-date: 2021-09-26T12:16:31+01:00
+title: ReadMe for Blog
+date: 2021-09-26T12:16:31.000+01:00
 draft: true
+
 ---
+# Public Notebook
 
-#### This is my Test!!
+URL: [https://blog.dandevelopment.uk/](https://blog.dandevelopment.uk/ "https://blog.dandevelopment.uk/")
 
-# test test
+### TechStack: 
 
-# test test
+* Hosting: **Netlify**
+* Version Control: **Github**
+* CMS: **Forestry.io**
+* Web Template: **Hugo**
 
-# test test
+### Languages/Syntax:
 
-# test test
+* HTML
+* CSS
+* JavaScript
+* Markdown
+
+### Why?
+
+There is too much to know for my tony brain to fit it all in! You might just find something interesting too.
