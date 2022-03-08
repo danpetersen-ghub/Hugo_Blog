@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
 pages:
 - content/posts/bookmarklets.md
 - content/posts/file-name-generator.md
