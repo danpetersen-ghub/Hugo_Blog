@@ -4,6 +4,7 @@ description = "Name files cleaner and quicker"
 title = "File Name Generator"
 
 +++
+
 # Being a clean freak....
 
 I just couldn't deal with messy, disorganized filenames. So I made this:
@@ -13,13 +14,10 @@ I just couldn't deal with messy, disorganized filenames. So I made this:
 
 Now life is clean!
 
-
 ### Table title
 
-| col1 | col2 | col3 |
-| --- | --- | --- |
-| A | John | Doe |
-| B | Jane | Deo |
-| C | Hello | Fresh |
-
-{{% tip %}} Tip Body {{% /tip %}}
+| col1 | col2  | col3  |
+| ---- | ----- | ----- |
+| A    | John  | Doe   |
+| B    | Jane  | Deo   |
+| C    | Hello | Fresh |

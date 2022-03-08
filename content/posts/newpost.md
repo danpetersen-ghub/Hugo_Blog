@@ -2,7 +2,7 @@
 title: Newpost
 date: 2021-09-26T12:16:31.000+01:00
 draft: true
-description = "Lorem ipsum dolor sit amet"
+description: Lorem ipsum dolor sit amet
 ---
 
 ### SubTitle 10000
