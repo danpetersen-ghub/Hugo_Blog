@@ -5,4 +5,8 @@ draft = true
 title = "About Me"
 
 +++
-![](/uploads/screenshot-2022-01-20-at-11-58-48.png)
+## About Me
+
+<img src="/uploads/screenshot-2022-01-20-at-11-58-48.png" style="width50%">
+
+Dan Petersen
