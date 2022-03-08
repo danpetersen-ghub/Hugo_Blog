@@ -14,10 +14,10 @@ Now life is clean!
 
 ### Table title
 
-| Header | Header | Header |
+| col1 | col2 | col3 |
 | --- | --- | --- |
-| Cell | Cell | Cell |
-| Cell | Cell | Cell |
-| Cell | Cell | Cell |
+| A | John | Doe |
+| B | Jane | Deo |
+| C | Hello | Fresh |
 
 {{% tip %}} Tip Body {{% /tip %}}
