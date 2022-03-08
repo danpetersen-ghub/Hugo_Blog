@@ -2,7 +2,7 @@
 
 URL: [https://blog.dandevelopment.uk/](https://blog.dandevelopment.uk/ "https://blog.dandevelopment.uk/")
 
-### TechStack: 
+### TechStack:
 
 * Hosting: **Netlify**
 * Version Control: **Github**
@@ -18,4 +18,4 @@ URL: [https://blog.dandevelopment.uk/](https://blog.dandevelopment.uk/ "https://
 
 ### Why?
 
-There is too much to know for my tony brain to fit it all in! You might just find something interesting too.
+There is too much to know for my tiny brain to fit it all in! You might just find something interesting too.
