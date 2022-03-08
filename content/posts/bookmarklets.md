@@ -1,8 +1,9 @@
 +++
 date = 2022-03-07T09:00:00Z
 title = "Bookmarklets"
-
+description = "Bookmarks and JavaScript"
 +++
+
 # Bookmarks and JavaScript.
 
 For a while now its been extremely useful to extract data from a webpage via the console.
@@ -29,9 +30,9 @@ Final boilerplate for a bookmarklet:
 
 Steps:
 
-* Create bookmark in your browser 
-* Paste the boilerplate in to your bookmark, where the url normally goes
-* Paste in your Javascript 
-* Refresh your page, and click on the bookmark
+- Create bookmark in your browser
+- Paste the boilerplate in to your bookmark, where the url normally goes
+- Paste in your Javascript
+- Refresh your page, and click on the bookmark
 
 Done ✅
