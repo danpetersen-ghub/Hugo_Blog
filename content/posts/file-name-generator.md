@@ -10,4 +10,4 @@ I just couldn't deal with messy, disorganized filenames. So I made this:
 
 <iframe src="https://www.namegenerator.dandevelopment.uk/" title="name" style="height: 700px;width:100%;"> </iframe>
 
-Now life is clean! 
+Now life is clean! 👌
