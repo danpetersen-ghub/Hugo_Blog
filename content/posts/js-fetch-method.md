@@ -1,7 +1,6 @@
 +++
 date = 2022-03-09T09:00:00Z
 description = ".fetch().then() in NodeJS"
-draft = true
 title = "JS: Fetch Method"
 
 +++
