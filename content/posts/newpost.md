@@ -1,10 +1,38 @@
 ---
-title: Newpost
+title: ReadMe for NodeJS Starter
 date: 2021-09-26T12:16:31.000+01:00
-draft: true
 description: Lorem ipsum dolor sit amet
+draft: true
+
 ---
+# NodeJS Starter App
 
-### SubTitle 10000
+URL: TBC
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### TechStack:
+
+* NodeJS
+* Express
+* MySQL
+
+### Languages/Syntax:
+
+* HTML
+* CSS
+* JavaScript
+* SQL
+
+### Features:
+
+* Database
+* Create/Read Records
+* Basic Auth
+* API
+
+### Why?
+
+I didn't want to go straight into a generic 'create-react-app' but I also seem to come up with ideas every few days, but the ambition is greater than the resources available to me! 
+
+So I plan to use this starter as the base for any App I create in the future. 
+
+I most likely will find a better nodeJS starter out in the web but this one has been great as a learning exercise. But...I must admit, harder and bigger than I thought! 

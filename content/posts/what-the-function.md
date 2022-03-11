@@ -1,9 +1,9 @@
 +++
 date = 2022-03-07T09:00:00Z
-title = "What the Function!?"
 description = "Functions, what are they good for?"
-+++
+title = "What the Function!?"
 
++++
 # Functions, what are they good for?
 
 Turns out, quite a lot!
@@ -24,4 +24,4 @@ But, I still prefer the written word. Why?
 
 Simply its closer to natural language. Surely, if we choose JavaScript then we are actively choosing a high-level language. Therefore its easier to read and understand simply stating this is a function.
 
-Personally, when you start to add async and await, it make the code really simple to understand and therefore easier to maintain, refactoring and eventually, pass on to another developer.
+Personally, when you start to add async and await and other such keywords, it makes the code really simple to understand. Therefore easier to maintain, refactor and eventually pass on to another developer.
