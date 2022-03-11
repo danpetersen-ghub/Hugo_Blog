@@ -122,7 +122,18 @@
         .select {
           margin: 17px;
         }
+        .nav-ham {
+          display: block !important;
+        }
+         .nav-li {
+          display: none;
+        }
+        /*
+        .nav-li {
+            display: none;
+          } */
       }
+   
     </style>
   </head>
   <body>
@@ -131,6 +142,21 @@
     --> 
      
      <div class="container">
+      <nav>
+      <ul class="nav-ul">
+        <li class="nav-li" ><a href="/">Home</a></li>
+        <li class="nav-li" ><a href="/posts/">Posts</a></li>
+        <li class="nav-li" ><a href="https://www.support.dandevelopment.uk/">Contact</a></li>
+        <!-- <li><a href="about.asp">About</a></li> -->
+        <li class="nav-ham nav-icon" > 
+          <i class="fa-solid fa-bars"></i>
+        </li>
+        <li class=" nav-close nav-icon" > 
+          <i class="fa-solid fa-xmark"></i>
+        </li>
+      </ul> 
+        
+      </nav>
          <div class="row banner">
 
          <div class="col-sm-1 col-md-1">

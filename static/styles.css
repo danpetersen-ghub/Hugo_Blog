@@ -141,3 +141,29 @@ tr {
 iframe {
   border-radius: 25px;
 }
+nav {
+  background: #e8e8e8;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0px;
+  color: var(--red);
+}
+.nav-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-li {
+  display: inline;
+  margin: 10px;
+}
+.nav-icon {
+  margin: 10px;
+}
+.nav-ham {
+  display: none;
+}
+
+.nav-close {
+  display: none;
+}
