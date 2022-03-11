@@ -131,7 +131,7 @@
             
             }
             .banner-title {
-            padding-top: 30px;
+            padding-top: 60px;
             max-width: 500px;
             font-weight: bolder;
             color: white;
@@ -152,6 +152,21 @@
     --> 
  
      <div class="container">
+      <nav>
+        <ul class="nav-ul">
+          <li class="nav-li" ><a href="/">Home</a></li>
+          <li class="nav-li" ><a href="/posts/">Posts</a></li>
+          <li class="nav-li" ><a href="https://www.support.dandevelopment.uk/">Contact</a></li>
+          <!-- <li><a href="about.asp">About</a></li> -->
+          <li class="nav-ham nav-icon" > 
+            <i class="fa-solid fa-bars"></i>
+          </li>
+          <li class=" nav-close nav-icon" > 
+            <i class="fa-solid fa-xmark"></i>
+          </li>
+        </ul> 
+          
+        </nav>
          <div class="row banner">
 
          <div class="col-sm-1 col-md-1">
@@ -163,12 +178,12 @@
                 {{ .Title }}
                </h1>
                <p id="banner_subcopy">
-                {{ .Date }}
+                {{.Date.Format "2006-01-02"}} 
                </p>
                <!-- <div id="banner_cta" class="cta-button">Create a ticket</div>  -->
-               <a href="/posts">
+               <!-- <a href="/posts">
                 <div id="banner_cta" class="cta-button">Posts</div> 
-               </a> 
+               </a>  -->
 
             </div>
              
