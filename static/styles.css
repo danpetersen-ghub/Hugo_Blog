@@ -155,7 +155,6 @@ nav {
   padding: 0;
 }
 .nav-li {
-  display: inline;
   margin: 10px;
 }
 .nav-icon {
@@ -167,4 +166,26 @@ nav {
 
 .nav-close {
   display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .background {
+    max-height: 360px !important;
+  }
+  .select {
+    margin: 17px;
+  }
+  /* Nav Styles */
+  .nav-ham {
+    display: block !important;
+  }
+  .nav-li {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .nav-li {
+    display: inline;
+  }
 }
