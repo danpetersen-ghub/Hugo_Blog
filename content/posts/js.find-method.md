@@ -1,7 +1,6 @@
 +++
 date = 2022-03-14T09:00:00Z
 description = "The find() method returns the first element in the provided array that satisfies the provided testing function"
-draft = true
 title = "JS .Find() Method"
 
 +++
