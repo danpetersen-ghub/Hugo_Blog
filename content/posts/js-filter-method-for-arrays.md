@@ -1,7 +1,6 @@
 +++
 date = 2022-03-15T09:00:00Z
 description = "The filter() method creates a new array with all elements that pass the test implemented by the provided function."
-draft = true
 title = "JS: Filter Method for Arrays"
 
 +++
