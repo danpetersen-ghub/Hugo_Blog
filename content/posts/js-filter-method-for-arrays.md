@@ -7,7 +7,7 @@ title = "JS: Filter Method for Arrays"
 +++
 # .filter()
 
-So I am kicking myself I haven't been using this earlier. It's actually rather simple yet very useful. 
+So I am kicking myself I haven't been using this earlier. It's actually rather simple yet very useful. 🤦‍♂️
 
 So like other methods for arrays, we can use the call back function (the function we pass to another function) in a couple of ways:
 
@@ -27,7 +27,7 @@ So like other methods for arrays, we can use the call back function (the functio
     }
     array.filter(myRule);
 
-So to see it in action we will use the same object we have used for the [.find() post](https://blog.dandevelopment.uk/posts/js.find-method/). 
+So to see it in action we will use the same object we have used for the [.find() post](https://blog.dandevelopment.uk/posts/js.find-method/).
 
     const array = [
       {
@@ -53,19 +53,19 @@ So to see it in action we will use the same object we have used for the [.find()
       },
     ];
 
-Again, this is a simple Array of objects. Something like you'd see in a standard user table. 
+Again, this is a simple Array of objects. Something like you'd see in a standard user table.
 
     const filteredArray = array.filter((record) => record.age > 45);
     console.log(filteredArray.length); //output: 2
 
-Great! we can see a new Array has been created but is only 2 items in the array. 
+Great! we can see a new Array has been created but is only 2 items in the array.  👏
 
 You can use destructuring again:
 
     const filteredArray2 = array.filter(({ age }) => age > 45);
     console.log(filteredArray2.length); //output: 2
 
-So as I continue with NodeJS and MySQL & APIs, these types of data manipulation methods will be very useful! 
+So as I continue with NodeJS and MySQL & APIs, these types of data manipulation methods will be very useful! 👌
 
 **Resources:**
 
