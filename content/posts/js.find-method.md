@@ -43,13 +43,13 @@ Take this code:
       eyeColor: 'brown'
     } */
 
-There are quite a few things going on here the trained eye overlooks. Let's break it down. 
+There are quite a few things going on here the trained eye overlooks. Let's break it down.
 
-First, we have an array of objects.  An easy way to get the same output would be to just use: 
+First, we have an array of objects.  An easy way to get the same output would be to just use:
 
     array[2]
 
-This is fine, but you can't really query the data in said object. 
+This is fine, but you can't really query the data in said object.
 
 In day-to-day use, you can't always know the location of the object in question every time, especially if you're pulling data from the API or Database. Hence an ID above gives immediate access to the object we want. 👍
 
@@ -65,10 +65,10 @@ This is because the method is on the Array prototype. I'll cover this in a futur
 
 ![](/uploads/arrayprototype.png)
 
- Next, we pass in a function (arrow function to make things read a little nicer).   
+Next, we pass in a function (arrow function to make things read a little nicer).
 
-Then we restructure the object to get the ID. More info here:
+Then we destructure the object to get the ID. More info here:
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment")
 
-Then we run a check on the ID values '=== 3' if true then return the object. 
+Then we run a check on the ID values '=== 3' if true then return the object.
