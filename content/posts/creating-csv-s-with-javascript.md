@@ -1,7 +1,7 @@
 +++
 date = 2022-03-16T08:00:00Z
 description = "Working with Data often is just easier with Excel"
-title = "creating CSV's with JavaScript"
+title = "Creating CSV's with JavaScript"
 
 +++
 # .csv
