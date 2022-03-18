@@ -122,10 +122,13 @@ p {
   margin: 10px;
 }
 pre {
-  background: var(--Blue);
+  background: var(--Blue) !important;
   color: #fff;
   padding: 20px;
   border-radius: 25px;
+}
+pre code.hljs {
+  background: var(--blue);
 }
 img {
   width: 100%;

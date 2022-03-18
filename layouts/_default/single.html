@@ -99,6 +99,10 @@
       href="/favicon/favicon-16x16.png"
     />
 
+    <!-- HIGHLIGHT.JS STYLES -->
+    <link rel="stylesheet"  href="/highlight/styles/a11y-dark.min.css">
+
+
     <!--ICON-->
     <script
       src="https://kit.fontawesome.com/a0886f7045.js"
@@ -109,10 +113,10 @@
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
     <meta name="theme-color" content="#ffffff" />
 
-    <!-- Jquery CDN -->
+    <!-- JQUERY CDN -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <style>
-
+    /* POST SPECIFIC STYLES */
       .row.banner {
             background-color: var(--Blue);
             height: 240px;
@@ -133,22 +137,23 @@
             }
             
         </style>
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-      })(window,document,'script','dataLayer','GTM-MFGXPK2');</script>
-      <!-- End Google Tag Manager -->
+        
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFGXPK2');</script>
+<!-- End Google Tag Manager -->
   </head>
   <body>
-    <!-- Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFGXPK2"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-    <!--
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--
 <img style="padding: 11px;" src="#" alt="logo" class="img-logo" width="140" height="68">
-    --> 
+--> 
  
      <div class="container">
       <nav>
@@ -225,10 +230,11 @@
                          
          <div class="col-sm-1 col-md-2"></div>
      </div>
-     
-     
-         <script src="/script.js" ></script>
-
+     <script>
+     </script>     
+     <script src="/script.js" ></script>
+     <script src="/highlight/highlight.min.js"></script>
+     <script>hljs.highlightAll();</script>
  </body>
 </html>
 
