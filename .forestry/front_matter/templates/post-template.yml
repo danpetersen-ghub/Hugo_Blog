@@ -24,5 +24,6 @@ pages:
 - content/posts/hello-hoisting.md
 - content/posts/js-fetch-method.md
 - content/posts/js-filter-method-for-arrays.md
+- content/posts/js-reduce.md
 - content/posts/js.find-method.md
 - content/posts/what-the-function.md
