@@ -20,6 +20,7 @@ pages:
 - content/pages/about-me.md
 - content/posts/bookmarklets.md
 - content/posts/creating-csv-s-with-javascript.md
+- content/posts/expressjs-background.md
 - content/posts/file-name-generator.md
 - content/posts/hello-hoisting.md
 - content/posts/js-fetch-method.md
