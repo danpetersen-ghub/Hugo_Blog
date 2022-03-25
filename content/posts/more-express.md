@@ -7,7 +7,7 @@ title = "More Express"
 +++
 # More Express
 
-Today we are taking our webserver/api to the next level. We are including support to query our data object to only pull back the record we are after. 
+Today we are taking our webserver/api to the next level. We are including support to query our data object to only pull back the record we are after.
 
     //Install express and use in app
     var express = require("express");
@@ -36,4 +36,10 @@ Today we are taking our webserver/api to the next level. We are including suppor
     app.listen("1234", function () {
       console.log("running:  http://localhost:1234/");
     });
-    
+
+* First, we use .get() rather than .all() as we only want to allow get requests to our endpoint. 
+* Then we add a parameter to the endpoint "/:id" this means anything after the "/" will be added to the request into the req.params object
+* We have also amended our query so that it uses bracket notation to pull back the index of the data we want. But we account for the index starting at 0, by -1 to the value. 
+  * Please note there is a clear disconnect here as we are not querying the ID property of the data, which is what we actually want to do, more on this in a future post!
+
+    //Install express and use in app
