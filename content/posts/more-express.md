@@ -42,4 +42,14 @@ Today we are taking our webserver/api to the next level. We are including suppor
 * We have also amended our query so that it uses bracket notation to pull back the index of the data we want. But we account for the index starting at 0, by -1 to the value. 
   * Please note there is a clear disconnect here as we are not querying the ID property of the data, which is what we actually want to do, more on this in a future post!
 
-    //Install express and use in app
+And there we have it! we can now mage an HTTP GET request to 
+
+    //GET: http://localhost:1234/2
+    //output:
+    {
+    	"id":2,
+        "firstName":"Jane",
+        "lastName":"Doe",
+        "age":40,
+        "eyeColor":"green"
+     }
