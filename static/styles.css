@@ -81,7 +81,7 @@ section.row h2,
   background-color: var(--Blue);
 }
 a:hover {
-  color: var(--Purple);
+  color: var(--Red) !important;
 }
 a {
   color: var(--Blue) !important;
