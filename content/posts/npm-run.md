@@ -1,7 +1,6 @@
 +++
 date = 2022-04-19T23:00:00Z
 description = "pakage.json"
-draft = true
 title = "npm run"
 
 +++
