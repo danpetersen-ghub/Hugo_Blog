@@ -51,4 +51,6 @@ I also had to change the app.js file:
 
 This seemed to work and the app is live!
 
-> >     
+So yes, glad I started with a 'simpler' tool to deploy the app. I also inadvertently found out how to configure the npm package.json file. 
+
+But next step is to find out about testing frameworks, having to effectively manually check the app was working after every deploy took so.much.time! 
