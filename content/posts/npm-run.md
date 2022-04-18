@@ -24,7 +24,7 @@ By default, you get the "test", which is nice but obviously, there isn't any tes
 
 This will then kinda 'insert' the text value into the command line, and result in the same output as literally typing "nodemon app.js".
 
-I haven't tested it yet but you can use && to run multiple scripts. This could be useful for provisioning the Database. 
+I haven't tested it yet but you can use '&&' to run multiple scripts. This could be useful for provisioning the Database. 
 
 This kind of stuff most tutorials seem to overlook or just mention without taking the time to show/explain. This is where [Traversey Media's]() videos shine,  he walks through some end-to-end projects that do cover the additional parts of a project not core to the project itself.
 
