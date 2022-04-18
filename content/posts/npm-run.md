@@ -6,9 +6,9 @@ title = "npm run"
 +++
 # npm...its pretty powerful
 
-So when I started out, I thought this library and handling dependencies is ridiculously powerful. And, of course, it is.
+So when I started out, I thought itvwas just a code library and had handling dependencies functionality. Which is, in itself, ridiculously powerful. 
 
-But what I didn't realize, is that it goes much much further!
+But what I didn't realize, is that it goes  much further!
 
 Specifically the scripts part of the package.json file:
 
@@ -24,13 +24,13 @@ By default, you get the "test", which is nice but obviously, there isn't any tes
 
 This will then kinda 'insert' the text value into the command line, and result in the same output as literally typing "nodemon app.js".
 
-I haven't tested it yet but you can use '&&' to run multiple scripts. This could be useful for provisioning the Database. 
+I haven't tested it yet but you can use '&&' to run multiple scripts. This could be useful for provisioning the Database.
 
 This kind of stuff most tutorials seem to overlook or just mention without taking the time to show/explain. This is where [Traversey Media's]() videos shine,  he walks through some end-to-end projects that do cover the additional parts of a project not core to the project itself.
 
 I have now also used this for cypress testing, I can easily configure the "test" value to run the automated test!
 
-_Note to self:_ 
+_Note to self:_
 
 _Not sure why exactly, but I did have to create a file: .npmrc_
 
