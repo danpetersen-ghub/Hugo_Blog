@@ -4,7 +4,7 @@ description = ""
 title = "cypress automated tests"
 
 +++
-# cypress testing
+# Cypress Automated Testing
 
 More info: [https://docs.cypress.io/guides/getting-started/writing-your-first-test#What-you-ll-learn](https://docs.cypress.io/guides/getting-started/writing-your-first-test#What-you-ll-learn "https://docs.cypress.io/guides/getting-started/writing-your-first-test#What-you-ll-learn")
 
@@ -23,7 +23,7 @@ To make it easier I've updated the package.json:
         "browsertest": "./node_modules/.bin/cypress open"
       }
 
-the "test" is the CLI-only version (well not really but for simplicity), the "browsertest" opens the cypress dashboard in the browser.  
+the "test" is the CLI-only version (well not really but for simplicity), the "browsertest" opens the cypress dashboard in the browser.
 
 First Test:
 
@@ -33,11 +33,10 @@ First Test:
         cy.contains("Starter App");
       });
     });
-    
 
-How did I get here? 
+How did I get here?
 
-1. npm init 
+1. npm init
 2. npm install cypress
 3. in the integration folder, create a new file: <Name>.spec.js
 4. Then use the CLI commands above to run the test ✅
@@ -55,6 +54,6 @@ Final test code:
       });
     });
 
-The cy.get() conforms to the queryselector() format. 
+The cy.get() conforms to the queryselector() format.
 
-Coincidentally I also finally got access to GitHub copilot this week. It's pretty hit or miss with the suggestions, but for simply remembering syntax it is 5 ⭐'s . I wrote the above and honestly didn't look at the documentation to check the 'correct' syntax!  
+Coincidentally I also finally got access to GitHub copilot this week. It's pretty hit or miss with the suggestions, but for simply remembering syntax it is 5 ⭐'s . I wrote the above and honestly didn't look at the documentation to check the 'correct' syntax!
