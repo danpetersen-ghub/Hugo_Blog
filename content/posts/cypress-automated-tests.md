@@ -17,6 +17,15 @@ Run tests in the terminal only:
 
     npx cypress run
 
+To make it easier I've updated the package.json:
+
+      "scripts": {
+        "test": "npx cypress run  -- --record --spec",
+        "browsertest": "./node_modules/.bin/cypress open"
+      }
+
+the "test" is the CLI-only version (well not really but for simplicity), the "browsertest" opens the cypress dashboard in the browser.  
+
 First Test:
 
     describe("My First Test", () => {
@@ -33,5 +42,3 @@ How did I get here?
 2. npm install cypress
 3. in the integration folder, create a new file: <Name>.spec.js
 4. Then use the CLI commands above to run the test ✅
-
-A
