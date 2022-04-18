@@ -42,3 +42,20 @@ How did I get here?
 2. npm install cypress
 3. in the integration folder, create a new file: <Name>.spec.js
 4. Then use the CLI commands above to run the test ✅
+
+Final test code:
+
+    describe("Bad User Credentials", () => {
+      it("Visits NodeJS Starter", () => {
+        cy.visit("https://nodestarter-prod.herokuapp.com/");
+        cy.contains("Starter App");
+        cy.get("input[id='username']").type("Hello World");
+        cy.get("input[id='password']").type("ABC123");
+        cy.get("button[id='submit']").click();
+        cy.contains("incorrect details");
+      });
+    });
+
+The cy.get() conforms to the queryselector() format. 
+
+Coincidentally I also finally got access to GitHub copilot this week. It's pretty hit or miss with the suggestions, but for simply remembering syntax it is 5 ⭐'s . I wrote the above and honestly didn't look at the documentation to check the 'correct' syntax!  
