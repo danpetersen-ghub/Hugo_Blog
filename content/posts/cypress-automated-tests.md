@@ -1,7 +1,7 @@
 +++
-date = 2022-04-18T08:00:00Z
+date = 2022-04-20T08:00:00Z
 description = ""
-title = "cypress automated tests"
+title = "Cypress Automated Testing"
 
 +++
 # Cypress Automated Testing
