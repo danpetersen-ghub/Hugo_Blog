@@ -18,6 +18,7 @@ fields:
   label: Description
 pages:
 - content/pages/about-me.md
+- content/posts/async-functions.md
 - content/posts/bookmarklets.md
 - content/posts/creating-csv-s-with-javascript.md
 - content/posts/cypress-automated-tests.md
