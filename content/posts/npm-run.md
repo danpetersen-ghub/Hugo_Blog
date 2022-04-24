@@ -1,14 +1,14 @@
 +++
 date = 2022-04-18T08:00:00Z
 description = "pakage.json"
-title = "npm run"
+title = "NPM RUN"
 
 +++
-# npm...its pretty powerful
+# npm... it's pretty powerful
 
-So when I started out, I thought itvwas just a code library and had handling dependencies functionality. Which is, in itself, ridiculously powerful. 
+So when I started out, I thought it was just a code library and had handling dependencies functionality. Which is, in itself, ridiculously powerful.
 
-But what I didn't realize, is that it goes  much further!
+But what I didn't realize, is that it goes much further!
 
 Specifically the scripts part of the package.json file:
 
