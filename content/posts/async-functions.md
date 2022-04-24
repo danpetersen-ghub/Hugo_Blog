@@ -1,7 +1,6 @@
 +++
 date = 2022-04-21T23:00:00Z
 description = ""
-draft = true
 title = "Async Functions"
 
 +++
