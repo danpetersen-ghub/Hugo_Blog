@@ -22,3 +22,5 @@ title = "Future Posts"
 * Fakerjs  \[\]
 * Cypress 2 \[\]
 * Nodemailer \[\]
+* angularJS (NOT angular) \[\]
+* EJS \[\]
