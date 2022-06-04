@@ -22,21 +22,8 @@ fields:
     required: false
   label: Tags
 - name: categories
-  type: select
+  type: tag_list
   default: []
-  config:
-    required: false
-    options:
-    - Developmemnt
-    - " JavaScript"
-    - DevOps
-    - NodeJS
-    - APIs
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
   label: Categories
 pages:
 - content/pages/about-me.md
