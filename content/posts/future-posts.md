@@ -1,7 +1,6 @@
 +++
 date = 2020-01-01T00:00:00Z
 description = "A To Do list of Posts "
-draft = true
 title = "Future Posts"
 
 +++
