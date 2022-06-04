@@ -1,8 +1,8 @@
 +++
-categories = [" JavaScript", "All", "Help"]
+categories = [" JavaScript"]
 date = 2022-04-21T23:00:00Z
 description = "Async,  Await & Promises"
-tags = "All"
+tags = ["All"]
 title = "Async Functions"
 
 +++
