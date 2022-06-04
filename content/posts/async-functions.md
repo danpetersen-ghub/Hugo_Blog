@@ -1,5 +1,5 @@
 +++
-categories = "All JavaScript"
+categories = "\"All\", \"JavaScript\""
 date = 2022-04-21T23:00:00Z
 description = "Async,  Await & Promises"
 tags = "All"
