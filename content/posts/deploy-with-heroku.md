@@ -1,8 +1,8 @@
 +++
-categories = ["All"]
+categories = ["All", "Deploy"]
 date = 2022-04-18T08:00:00Z
 description = "How to deploy at an App to Production in a simple CI/CD pipline!"
-tags = ["All"]
+tags = ["CI/CD", "MySQL", ".env", "Heroku"]
 title = "Deploy with Heroku"
 
 +++
