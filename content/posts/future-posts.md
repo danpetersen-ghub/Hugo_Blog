@@ -19,5 +19,7 @@ title = "Future Posts"
   * margin/padding
   * buttons
   * Cards
-  * styling 
+  * styling
 * Fakerjs  \[\]
+* Cypress 2 \[\]
+* Nodemailer \[\]
