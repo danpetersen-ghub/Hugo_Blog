@@ -1,9 +1,10 @@
 +++
+categories = "All JavaScript"
 date = 2022-04-21T23:00:00Z
-description = ""
+description = "Async,  Await & Promises"
+tags = "All"
 title = "Async Functions"
-categories = ["All"]
-tags = ["All"]
+
 +++
 # Async,  Await & Promises
 
