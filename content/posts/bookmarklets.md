@@ -1,11 +1,11 @@
 +++
+categories = ["JavaScript"]
 date = 2022-03-07T09:00:00Z
-title = "Bookmarklets"
 description = "Bookmarks and JavaScript"
-categories = ["All"]
 tags = ["All"]
-+++
+title = "Bookmarklets"
 
++++
 # Bookmarks and JavaScript.
 
 For a while now its been extremely useful to extract data from a webpage via the console.

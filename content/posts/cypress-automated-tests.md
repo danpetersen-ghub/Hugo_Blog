@@ -1,9 +1,10 @@
 +++
+categories = ["All", "JavaScript", "Automated Tests"]
 date = 2022-04-20T08:00:00Z
-description = ""
+description = "Automated Testing and E2E Testing."
+tags = ["NPM", "Cypress"]
 title = "Cypress Automated Testing"
-categories = ["All"]
-tags = ["All"]
+
 +++
 # Cypress Automated Testing
 

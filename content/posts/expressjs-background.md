@@ -1,10 +1,9 @@
 +++
+categories = ["All", "JavaScript", "NodeJS"]
 date = 2022-03-21T09:00:00Z
 description = "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications"
+tags = ["Express", "API's"]
 title = "ExpressJS: Background"
-categories = ["All"]
-tags = ["All"]
-
 
 +++
 # ExpressJS: Background
@@ -43,4 +42,4 @@ Simple routing, to clarify express abstracts all the fin technical stuff from HT
 
 More info: [https://nodejs.dev/learn/making-http-requests-with-nodejs](https://nodejs.dev/learn/making-http-requests-with-nodejs "https://nodejs.dev/learn/making-http-requests-with-nodejs")
 
-So I didn't get into any methods just yet, but other posts will take a deeper dive! 👨‍🎓 
+So I didn't get into any methods just yet, but other posts will take a deeper dive! 👨‍🎓

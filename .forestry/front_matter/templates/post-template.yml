@@ -16,6 +16,14 @@ fields:
   config:
     required: false
   label: Description
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - content/pages/about-me.md
 - content/posts/async-functions.md
