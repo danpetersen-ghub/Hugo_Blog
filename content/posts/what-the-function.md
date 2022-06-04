@@ -2,8 +2,10 @@
 date = 2022-03-07T09:00:00Z
 description = "Functions, what are they good for?"
 title = "What the Function!?"
-
+categories = ["All"]
+tags = ["All"]
 +++
+
 # Functions, what are they good for?
 
 Turns out, quite a lot!
@@ -28,24 +30,24 @@ Personally, when you start to add async and await and other such keywords, it ma
 
 ##### Update:
 
-An additional feature of the arrow function is that if you only have one line then the expression is already returned. 
+An additional feature of the arrow function is that if you only have one line then the expression is already returned.
 
     let int = 1;
-    
+
     let plus1 = num => num + 1;
-    
+
     function plus2(num) {
     	return num + 2;
     }
-    
-    console.log(plus1(int)); 
+
+    console.log(plus1(int));
     //result 2
-    
-    console.log(plus2(int)); 
+
+    console.log(plus2(int));
     //result 3
 
-You can see above we have 2 functions, one regular one arrow. 
+You can see above we have 2 functions, one regular one arrow.
 
-Because we only have one line then the return isn't needed. 
+Because we only have one line then the return isn't needed.
 
 Being honest, this is a bit academic. Unless you think about passing a parameter that is a function ie. .map() or .find().

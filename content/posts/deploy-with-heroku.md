@@ -2,7 +2,8 @@
 date = 2022-04-18T08:00:00Z
 description = ""
 title = "Deploy with Heroku"
-
+categories = ["All"]
+tags = ["All"]
 +++
 # Deploying My App
 

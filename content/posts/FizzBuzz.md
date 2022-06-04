@@ -2,6 +2,8 @@
 date = 2022-03-06T00:00:00Z
 title = "Simple FizzBuzz"
 description = "A simple attempt at FizzBuzz Challenge"
+categories = ["All"]
+tags = ["All"]
 +++
 
 # Hey umm... is this thing on?

@@ -2,8 +2,10 @@
 date = 2022-03-16T08:00:00Z
 description = "Working with Data often is just easier with Excel"
 title = "Creating CSV's with JavaScript"
-
+categories = ["All"]
+tags = ["All"]
 +++
+
 # .csv
 
 In previous posts, we looked at getting, filtering, and generally playing with data in JS.
@@ -21,19 +23,19 @@ So, for the browser I use this bookmarklet all the time:
     const obj = {};
     let title = document.getElementsByClassName("row-header");
     let time = document.getElementsByClassName("task_total ");
-    
+
     for (var i = 0; i < title.length; i++) {
       obj[i + "_" + title[i].innerHTML] = time[i].innerText;
     }
     console.table(obj);
-    
+
     let string = ``;
     for (const property in obj) {
       string += encodeURIComponent(`${property}, ${obj[property]}, \r\n`);
     }
-    
+
     let csvContent = "data:text/csv;charset=utf-8," + string;
-    
+
     console.log(csvContent);
     window.location.href = csvContent;
 
@@ -60,7 +62,7 @@ This is where you actually create the CSV:
     for (const property in obj) {
       string += encodeURIComponent(`${property}, ${obj[property]}, \r\n`);
     }
-    
+
     let csvContent = "data:text/csv;charset=utf-8," + string;
 
 First, you loop over the object and kinda stringify it. We also use \\r\\n to signify the new row. If you want multiple columns you'll need to modify this obviously.
@@ -90,10 +92,10 @@ In NodeJS, it's somewhat similar, but you don't need to do as much i.e.
 
     function saveFile(string) {
         let csvContent = "data:text/csv;charset=utf-8," + string ;
-        
+
         fs.writeFile(`2022_02_01-CSV-Results.csv`, csvContent,
          function (err) {
-            if (err) throw err;              
+            if (err) throw err;
             console.log('File Saved');
         }
     );
@@ -102,4 +104,4 @@ The above function will take the string and create a file, and insert the sting 
 
 So there you have it, from the browser you can essentially create a custom csv export button using a bookmarklet.
 
-And via nodeJS, you can combine many of the same principles to create a .csv file. How you get the content is another matter!  😎
+And via nodeJS, you can combine many of the same principles to create a .csv file. How you get the content is another matter! 😎

@@ -1,8 +1,14 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Dan Dev NoteBook || "
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
 

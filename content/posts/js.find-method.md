@@ -2,8 +2,10 @@
 date = 2022-03-14T09:00:00Z
 description = "The find() method returns the first element in the provided array that satisfies the provided testing function"
 title = "JS .Find() Method"
-
+categories = ["All"]
+tags = ["All"]
 +++
+
 # .find() a very useful method for Arrays
 
 Take this code:
@@ -31,10 +33,10 @@ Take this code:
         eyeColor: "brown",
       },
     ];
-    
+
     const record = array.find(({ id }) => id === 3);
     console.log(record);
-    
+
     /* output {
       id: 3,
       firstName: 'Dan',
@@ -45,7 +47,7 @@ Take this code:
 
 There are quite a few things going on here the trained eye overlooks. Let's break it down.
 
-First, we have an array of objects.  An easy way to get the same output would be to just use:
+First, we have an array of objects. An easy way to get the same output would be to just use:
 
     array[2]
 

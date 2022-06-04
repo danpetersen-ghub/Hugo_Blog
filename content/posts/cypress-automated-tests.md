@@ -2,7 +2,8 @@
 date = 2022-04-20T08:00:00Z
 description = ""
 title = "Cypress Automated Testing"
-
+categories = ["All"]
+tags = ["All"]
 +++
 # Cypress Automated Testing
 

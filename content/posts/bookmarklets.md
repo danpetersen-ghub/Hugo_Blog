@@ -2,6 +2,8 @@
 date = 2022-03-07T09:00:00Z
 title = "Bookmarklets"
 description = "Bookmarks and JavaScript"
+categories = ["All"]
+tags = ["All"]
 +++
 
 # Bookmarks and JavaScript.

@@ -2,7 +2,8 @@
 date = 2022-04-18T08:00:00Z
 description = "pakage.json"
 title = "NPM RUN"
-
+categories = ["All"]
+tags = ["All"]
 +++
 # npm... it's pretty powerful
 
