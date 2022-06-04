@@ -1,9 +1,10 @@
 +++
-date = 2022-04-20T08:00:00Z
-description = ""
-title = "Cypress Automated Testing"
 categories = ["All"]
+date = 2022-04-20T08:00:00Z
+description = "Automated Testing and E2E Testing."
 tags = ["All"]
+title = "Cypress Automated Testing"
+
 +++
 # Cypress Automated Testing
 
