@@ -22,10 +22,22 @@ fields:
     required: false
   label: Tags
 - name: categories
-  type: text
+  type: select
+  default: []
   config:
     required: false
-  label: categories
+    options:
+    - Developmemnt
+    - " JavaScript"
+    - DevOps
+    - NodeJS
+    - APIs
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Categories
 pages:
 - content/pages/about-me.md
 - content/posts/async-functions.md
