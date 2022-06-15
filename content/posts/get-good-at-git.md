@@ -2,7 +2,6 @@
 categories = []
 date = 2022-06-14T23:00:00Z
 description = "Github is a must know! "
-draft = true
 tags = []
 title = "Get Good At Git"
 
