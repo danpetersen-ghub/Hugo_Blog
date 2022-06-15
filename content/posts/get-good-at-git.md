@@ -6,7 +6,7 @@ tags = []
 title = "Get Good At Git"
 
 +++
-\##A Simple Build Process
+### A Simple Build Process
 
 First, initialise git;
 
