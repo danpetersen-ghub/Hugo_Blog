@@ -2,7 +2,6 @@
 categories = []
 date = 2022-06-18T23:00:00Z
 description = "UML or "
-draft = true
 tags = []
 title = "UML-sequences"
 
