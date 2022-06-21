@@ -2,7 +2,6 @@
 categories = []
 date = 2022-06-20T23:00:00Z
 description = "Create React App is an officially supported way to create single-page React applications. "
-draft = true
 tags = []
 title = "01_React  - Set Up"
 
