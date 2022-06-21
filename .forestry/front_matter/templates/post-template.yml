@@ -26,6 +26,7 @@ fields:
   label: Tags
 pages:
 - content/pages/about-me.md
+- content/posts/01_react-set-up.md
 - content/posts/async-functions.md
 - content/posts/bookmarklets.md
 - content/posts/creating-csv-s-with-javascript.md
