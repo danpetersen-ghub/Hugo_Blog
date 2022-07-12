@@ -121,7 +121,7 @@ The approach above clearly breaks out the 3 operations
 2. Getting the data
 3. What do you want to do with the data once you have it
 
-F|inally, its so easy to read and understand what is actually the intended process here, rather than getting confused by syntax.
+F|finally, it's so easy to read and understand what is actually the intended process here, rather than getting confused by syntax.
 
 An alternate way of using async/await that is probably cleaner again:
 
