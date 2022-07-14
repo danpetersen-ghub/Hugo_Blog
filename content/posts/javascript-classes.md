@@ -2,7 +2,6 @@
 categories = []
 date = 2022-07-13T23:00:00Z
 description = "Classes are a template for creating objects. "
-draft = true
 tags = []
 title = "JavaScript Classes"
 
