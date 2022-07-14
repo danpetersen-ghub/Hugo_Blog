@@ -38,6 +38,7 @@ pages:
 - content/posts/future-posts.md
 - content/posts/get-good-at-git.md
 - content/posts/hello-hoisting.md
+- content/posts/javascript-classes.md
 - content/posts/js-fetch-method.md
 - content/posts/js-filter-method-for-arrays.md
 - content/posts/js-reduce.md
