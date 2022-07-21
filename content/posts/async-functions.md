@@ -158,7 +158,7 @@ How to condense further:
     
     
     onGetAPIData = async () => {
-        const response = await fetch(`${api.baseURL}?`, api.meta).then((res) => res.json())
+        const response = await fetch(`${api.baseURL}`, api.meta).then((res) => res.json())
         console.log(response[0].id);
     }
     
