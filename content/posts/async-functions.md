@@ -141,3 +141,27 @@ An alternate way of using async/await that is probably cleaner again:
     }
       
     funcName();
+
+How to condense further:
+
+    const api = {
+        baseURL:'https://nodestarter-prod.herokuapp.com/api/all/data',
+        meta: {
+               headers: {
+                "Method": "GET",
+                "Content-Type": "application/json",
+                "Accept": "application/json",
+                "Access-Control-Allow-Origin": ""
+                }
+            }
+    }
+    
+    
+    onGetAPIData = async () => {
+        const response = await fetch(`${api.baseURL}?`, api.meta).then((res) => res.json())
+        console.log(response[0].id);
+    }
+    
+    onGetAPIData();
+
+As you can see the api method is just 4 lines by moving the variables to an object! 
