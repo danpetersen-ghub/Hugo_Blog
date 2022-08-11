@@ -32,6 +32,7 @@ pages:
 - content/posts/creating-csv-s-with-javascript.md
 - content/posts/cypress-automated-tests.md
 - content/posts/deploy-with-heroku.md
+- content/posts/dev-resources.md
 - content/posts/expressjs-background.md
 - content/posts/expressjs-part-ii.md
 - content/posts/file-name-generator.md
