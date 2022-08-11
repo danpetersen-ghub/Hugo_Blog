@@ -2,7 +2,6 @@
 categories = []
 date = 2022-08-10T23:00:00Z
 description = ""
-draft = true
 tags = []
 title = "Dev Resources"
 
