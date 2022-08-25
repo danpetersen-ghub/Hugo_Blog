@@ -44,6 +44,7 @@ pages:
 - content/posts/js-filter-method-for-arrays.md
 - content/posts/js-reduce.md
 - content/posts/js.find-method.md
+- content/posts/let-const.md
 - content/posts/more-express.md
 - content/posts/npm-run.md
 - content/posts/uml-sequences.md
