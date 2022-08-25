@@ -1,7 +1,7 @@
 +++
 categories = []
 date = 2022-08-25T08:00:00Z
-description = "In ES6 these replace the Var keyword. This is because they have an added feature block scoping."
+description = "In ES6 these replace the Var keyword. "
 tags = []
 title = "LET and CONST"
 
