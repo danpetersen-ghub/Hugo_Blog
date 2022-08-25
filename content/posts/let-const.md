@@ -2,7 +2,6 @@
 categories = []
 date = 2022-08-25T08:00:00Z
 description = ""
-draft = true
 tags = []
 title = "LET & CONST"
 
