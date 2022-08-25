@@ -3,7 +3,7 @@ categories = []
 date = 2022-08-25T08:00:00Z
 description = ""
 tags = []
-title = "LET & CONST"
+title = "LET and CONST"
 
 +++
 ## Let & Const
