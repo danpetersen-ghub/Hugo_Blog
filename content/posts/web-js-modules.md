@@ -1,12 +1,14 @@
 ---
 title: JavaScript Modules within the Browser
 date: 2022-10-01T09:00:00.000+01:00
-description: We all know that good code has, among other features, a good separation of concerns.
-draft: true
-categories: ["Development"]
-tags: ["Development"]
----
+description: We all know that good code has, among other features, a good separation
+  of concerns.
+categories:
+- Development
+tags:
+- Development
 
+---
 # JavaScript Modules within the Browser
 
 We all know that good code has, among other features, a good separation of concerns. 
@@ -77,8 +79,3 @@ class Logger {
 export default Logger; 
 </pre>
 </code>
-
-
-
-
-
