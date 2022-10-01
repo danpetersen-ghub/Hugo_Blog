@@ -24,7 +24,7 @@ So, starting at the index.html file:
 <pre>
 <code>
 Script Tag:
- <script type="module" src="script.js" async="false" defer></script>
+ &lt;script type="module" src="script.js" async="false" defer>&lt;/script>
 </code>
 </pre>
 
