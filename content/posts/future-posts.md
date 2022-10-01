@@ -7,15 +7,16 @@ tags = ["All"]
 +++
 ## Posts To create:
 
-* JS Classes vs function constructors \[\]
+* JS Classes vs function constructors \[ DONE\]
 * Import/Export  \[\]
 * Obj destructuring (extends, {})  \[\]
 * JSX  \[\]
-* React  \[\]
-  * Setup  \[\]
+* React  \[IN PROGRESS\]
+  * Setup  \[ DONE \]
   * Components  \[\]
   * State  \[\]
-* Bootstrap  \[\]
+  * Hooks
+* Bootstrap  \[Removed\]
   * margin/padding
   * buttons
   * Cards
@@ -25,3 +26,6 @@ tags = ["All"]
 * Nodemailer \[\]
 * angularJS (NOT angular) \[\]
 * EJS \[\]
+* Azure functions
+* Svelte
+* Vue
