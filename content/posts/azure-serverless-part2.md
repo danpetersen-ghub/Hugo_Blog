@@ -34,3 +34,4 @@ Dont forget to <code>git commit -a -m "my awesome function"</code>
 you might need to <code>cd ..</code> to go up a directory.
 
 go to Azure Icon in VS Code then under resources and the function you want to deploy to right click and 'deploy to function app'.
+
