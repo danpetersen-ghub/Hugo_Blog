@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["JavaScript"]
 date = 2022-08-25T08:00:00Z
 description = "In ES6 these replace the Var keyword. "
-tags = []
+tags = ["JavaScript"]
 title = "LET and CONST"
 
 +++

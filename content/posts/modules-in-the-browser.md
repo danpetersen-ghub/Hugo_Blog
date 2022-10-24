@@ -5,8 +5,10 @@ description: We all know that good code has, among other features, a good separa
   of concerns.
 categories:
 - Development
+- JavaScript
 tags:
 - Development
+- JavaScript
 
 ---
 # JavaScript Modules within the Browser

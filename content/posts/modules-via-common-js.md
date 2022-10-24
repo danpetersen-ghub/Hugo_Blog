@@ -1,8 +1,7 @@
 ---
 title: JavaScript Modules within the Browser
 date: 2022-10-01T09:00:00.000+01:00
-description: We all know that good code has, among other features, a good separation
-  of concerns.
+description: We all know that good code has, among other features, a good separation of concerns.
 categories:
 - Development
 tags:
