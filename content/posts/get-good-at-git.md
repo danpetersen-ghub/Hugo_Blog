@@ -42,6 +42,13 @@ Then you need to sync the change to the remote repo
 
 Then you can go to the application and make a pull request.
 
+If you forget to initialise the git repo until after you start coding:
+        
+    git checkout dev2   
+    git branch main dev2 -f    
+    git checkout main  
+    git push origin main -f
+
 Useful links:
 
 [https://about.gitlab.com/images/press/git-cheat-sheet.pdf](https://about.gitlab.com/images/press/git-cheat-sheet.pdf "https://about.gitlab.com/images/press/git-cheat-sheet.pdf")
