@@ -25,13 +25,12 @@ Then you can go to Postman (I prefer ThunderClient within VScode) or wherever an
 
         http://localhost:7071/etcetcetc
 
-And see what the Error message is from the Function. 
+And see what the Error message is from the Function.
 
 Then you need to deploy once tested....
 
-Dont forget to <code>git commit -a -m "my awesome function"</code> 
+Dont forget to <code>git commit -a -m "my awesome function"</code>
 
 you might need to <code>cd ..</code> to go up a directory.
 
 go to Azure Icon in VS Code then under resources and the function you want to deploy to right click and 'deploy to function app'.
-
