@@ -24,3 +24,10 @@ Server is Online at http://localhost:3000/ !  🎉
 More info:
 
 [https://create-react-app.dev/docs/getting-started/](https://create-react-app.dev/docs/getting-started/ "https://create-react-app.dev/docs/getting-started/")
+
+Note to self react env vars are a bit odd:
+
+    REACT_APP_FOO=$DOMAIN/foo
+    REACT_APP_BAR=$DOMAIN/bar
+
+You need to prepend <code>REACT_APP_</code> to your .env file. no need to call the dotenv node_files though.
