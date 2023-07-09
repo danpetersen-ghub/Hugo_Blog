@@ -1,11 +1,12 @@
 +++
-categories = []
-date = 2022-06-18T23:00:00Z
+categories = [ ]
+date = 2022-06-18T23:00:00.000Z
 description = "UML or "
-tags = []
+tags = [ ]
 title = "UML-sequences"
-
+_template = "post_template"
 +++
+
 ## Plant UML
 
 PlantUML uses well-formed and human-readable code to render the diagrams.

@@ -1,11 +1,12 @@
 +++
-categories = [" JavaScript"]
-date = 2022-04-21T23:00:00Z
+categories = [ " JavaScript" ]
+date = 2022-04-21T23:00:00.000Z
 description = "Async,  Await & Promises"
-tags = ["All"]
+tags = [ "All" ]
 title = "Async Functions"
-
+_template = "post_template"
 +++
+
 # Async,  Await & Promises
 
 So, this concept I've actually been using for a while but unknowingly. An example of this is the .fetch() method and .then().

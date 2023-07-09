@@ -1,11 +1,12 @@
 +++
-categories = ["All", "JavaScript", "Automated Tests"]
-date = 2022-04-20T08:00:00Z
+categories = [ "All", "JavaScript", "Automated Tests" ]
+date = 2022-04-20T08:00:00.000Z
 description = "Automated Testing and E2E Testing."
-tags = ["NPM", "Cypress"]
+tags = [ "NPM", "Cypress" ]
 title = "Cypress Automated Testing"
-
+_template = "post_template"
 +++
+
 # Cypress Automated Testing
 
 More info: [https://docs.cypress.io/guides/getting-started/writing-your-first-test#What-you-ll-learn](https://docs.cypress.io/guides/getting-started/writing-your-first-test#What-you-ll-learn "https://docs.cypress.io/guides/getting-started/writing-your-first-test#What-you-ll-learn")

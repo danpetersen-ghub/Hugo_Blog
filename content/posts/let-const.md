@@ -1,11 +1,12 @@
 +++
-categories = ["JavaScript"]
-date = 2022-08-25T08:00:00Z
+categories = [ "JavaScript" ]
+date = 2022-08-25T08:00:00.000Z
 description = "In ES6 these replace the Var keyword. "
-tags = ["JavaScript"]
+tags = [ "JavaScript" ]
 title = "LET and CONST"
-
+_template = "post_template"
 +++
+
 ## Let & Const
 
 In ES6 these replace the Var keyword. This is because they have an added feature block scoping. 

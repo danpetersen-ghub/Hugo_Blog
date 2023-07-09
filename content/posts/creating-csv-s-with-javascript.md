@@ -1,11 +1,12 @@
 +++
-categories = ["All", "JavaScipt"]
-date = 2022-03-16T08:00:00Z
+categories = [ "All", "JavaScipt" ]
+date = 2022-03-16T08:00:00.000Z
 description = "Working with Data often is just easier with Excel"
-tags = ["Snippets", "Hacks"]
+tags = [ "Snippets", "Hacks" ]
 title = "Creating CSV's with JavaScript"
-
+_template = "post_template"
 +++
+
 # .csv
 
 In previous posts, we looked at getting, filtering, and generally playing with data in JS.

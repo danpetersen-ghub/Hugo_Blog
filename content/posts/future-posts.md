@@ -1,10 +1,12 @@
 +++
-date = 2020-01-01T00:00:00Z
+date = 2020-01-01T00:00:00.000Z
 description = "A To Do list of Posts "
 title = "Future Posts"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 ## Posts To create:
 
 * JS Classes vs function constructors \[ DONE\]

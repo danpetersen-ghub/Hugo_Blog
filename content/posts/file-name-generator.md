@@ -1,10 +1,12 @@
 +++
-date = 2022-03-08T09:00:00Z
+date = 2022-03-08T09:00:00.000Z
 description = "Name files cleaner and quicker"
 title = "File Name Generator"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 
 # Being a clean freak...
 

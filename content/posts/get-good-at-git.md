@@ -1,11 +1,12 @@
 +++
-categories = []
-date = 2022-06-14T23:00:00Z
+categories = [ ]
+date = 2022-06-14T23:00:00.000Z
 description = "Github is a must know! "
-tags = []
+tags = [ ]
 title = "Get Good At Git"
-
+_template = "post_template"
 +++
+
 ### A Simple Build Process
 
 First, initialise git;

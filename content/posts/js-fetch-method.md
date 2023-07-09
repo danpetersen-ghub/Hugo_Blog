@@ -1,10 +1,12 @@
 +++
-date = 2022-03-09T09:00:00Z
+date = 2022-03-09T09:00:00.000Z
 description = ".fetch().then() in NodeJS"
 title = "JS: Fetch Method"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 
 # Here is a snippet I use all the time..
 

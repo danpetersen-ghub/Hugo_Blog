@@ -1,10 +1,12 @@
 +++
-date = 2022-03-25T08:00:00Z
+date = 2022-03-25T08:00:00.000Z
 description = "More Express"
 title = "More Express"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 # More Express
 
 Today we are taking our webserver/api to the next level. We are including support to query our data object to only pull back the record we are after.

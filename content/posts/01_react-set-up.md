@@ -1,11 +1,12 @@
 +++
-categories = []
-date = 2022-06-20T23:00:00Z
+categories = [ ]
+date = 2022-06-20T23:00:00.000Z
 description = "Create React App is an officially supported way to create single-page React applications. "
-tags = []
+tags = [ ]
 title = "01_React  - Set Up"
-
+_template = "post_template"
 +++
+
 ## React Set up
 
 Create folder:

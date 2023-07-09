@@ -1,11 +1,12 @@
 +++
-categories = []
-date = 2022-08-10T23:00:00Z
+categories = [ ]
+date = 2022-08-10T23:00:00.000Z
 description = ""
-tags = []
+tags = [ ]
 title = "Dev Resources"
-
+_template = "post_template"
 +++
+
 # Dev Tools
 
 **GENERATORS:**

@@ -1,10 +1,12 @@
 +++
-date = 2022-03-07T09:00:00Z
+date = 2022-03-07T09:00:00.000Z
 description = "Functions, what are they good for?"
 title = "What the Function!?"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 
 # Functions, what are they good for?
 
