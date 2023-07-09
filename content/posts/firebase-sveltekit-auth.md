@@ -42,7 +42,7 @@ Based on this architecture, the application follows a pattern where the authStor
 
 Overall, this architecture allows for the management of authentication state and provides the necessary components and functions to handle user authentication using Firebase Authentication within a SvelteKit application.
 
-![UML Image](../../static/uploads/firebase-sveltekit-auth.png)
+![UML Image](/uploads/firebase-sveltekit-auth.png)
 
 References:
 
