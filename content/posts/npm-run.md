@@ -1,10 +1,12 @@
 +++
-date = 2022-04-18T08:00:00Z
+date = 2022-04-18T08:00:00.000Z
 description = "pakage.json"
 title = "NPM RUN"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 # npm... it's pretty powerful
 
 So when I started out, I thought it was just a code library and had handling dependencies functionality. Which is, in itself, ridiculously powerful.

@@ -1,11 +1,12 @@
 +++
-categories = ["All", "Deploy"]
-date = 2022-04-18T08:00:00Z
+categories = [ "All", "Deploy" ]
+date = 2022-04-18T08:00:00.000Z
 description = "How to deploy at an App to Production in a simple CI/CD pipline!"
-tags = ["CI/CD", "MySQL", ".env", "Heroku"]
+tags = [ "CI/CD", "MySQL", ".env", "Heroku" ]
 title = "Deploy with Heroku"
-
+_template = "post_template"
 +++
+
 # Deploying My App
 
 After hearing about the many many ways to get an app 'live', I thought I would start simple and go with Heroku.

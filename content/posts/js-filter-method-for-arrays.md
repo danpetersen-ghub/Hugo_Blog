@@ -1,10 +1,12 @@
 +++
-date = 2022-03-15T09:00:00Z
+date = 2022-03-15T09:00:00.000Z
 description = "The filter() method creates a new array with all elements that pass the test implemented by the provided function."
 title = "JS: Filter"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 
 # .filter()
 

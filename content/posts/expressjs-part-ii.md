@@ -1,10 +1,12 @@
 +++
-date = 2022-03-23T08:00:00Z
+date = 2022-03-23T08:00:00.000Z
 description = "Looking in to more methods for express!"
 title = "ExpressJS: Part II"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 # Using Express
 
 So following the post yesterday we are adding a little more functionality to our simple webserver/API. 

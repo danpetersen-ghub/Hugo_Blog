@@ -1,11 +1,12 @@
 +++
-categories = ["All", "JavaScript", "NodeJS"]
-date = 2022-03-21T09:00:00Z
+categories = [ "All", "JavaScript", "NodeJS" ]
+date = 2022-03-21T09:00:00.000Z
 description = "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications"
-tags = ["Express", "API's"]
+tags = [ "Express", "API's" ]
 title = "ExpressJS: Background"
-
+_template = "post_template"
 +++
+
 # ExpressJS: Background
 
 Slightly different one this today. We will be looking at the Express framework in a little more depth. I've been learning NodeJS for a little while and found it to actually be more useful in day-to-day work than the client-based Javascript!

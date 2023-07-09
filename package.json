@@ -1,0 +1,18 @@
+{
+  "name": "hugo_blog",
+  "version": "1.0.0",
+  "description": "URL: [https://blog.dandevelopment.uk/](https://blog.dandevelopment.uk/ \"https://blog.dandevelopment.uk/\")",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tinacms dev -c \"npx hugo server\"",
+    "build": "npx tinacms dev -c \"npx hugo server\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.22",
+    "tinacms": "^1.5.13"
+  }
+}

@@ -1,11 +1,12 @@
 +++
-categories = []
-date = 2022-07-13T23:00:00Z
+categories = [ ]
+date = 2022-07-13T23:00:00.000Z
 description = "Classes are a template for creating objects. "
-tags = []
+tags = [ ]
 title = "JavaScript Classes"
-
+_template = "post_template"
 +++
+
 # Classes in JavaScript
 
 _Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on prototypes but also have some syntax and semantics that are not shared with ES5 class-like semantics._

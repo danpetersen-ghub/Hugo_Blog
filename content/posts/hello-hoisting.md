@@ -1,10 +1,12 @@
 +++
-date = 2021-06-21T08:00:00Z
+date = 2021-06-21T08:00:00.000Z
 description = "Hoisting in JavaScript."
 title = "Hello Hoisting"
-categories = ["All"]
-tags = ["All"]
+categories = [ "All" ]
+tags = [ "All" ]
+_template = "post_template"
 +++
+
 
 # What is Hoisting in JavaScript?
 
